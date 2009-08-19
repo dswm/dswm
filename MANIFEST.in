@@ -1,0 +1,3 @@
+include dswm/config/deployment.ini_tmpl
+recursive-include dswm/public *
+recursive-include dswm/templates *
